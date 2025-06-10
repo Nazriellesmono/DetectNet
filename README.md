@@ -54,7 +54,7 @@ DetectNet uses the **Random Forest** algorithm — a robust, ensemble-based clas
   - Naturally handles non-linear relationships.
   - Provides feature importance for interpretability.
 
-- **Model Pipeline (Developed by: Muhammad Nizamudin M.)**
+- **Model Pipeline (Developed by: Achmed Nazriel Lesmono)**
   - 📦 Dataset collection & preprocessing
   - ⚙️ Feature selection & scaling
   - 🏋️ Training with Random Forest (Scikit-learn)
