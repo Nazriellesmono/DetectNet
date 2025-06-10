@@ -68,7 +68,7 @@ DetectNet uses the **Random Forest** algorithm — a robust, ensemble-based clas
 ## ⚙️ Installation & Usage Guide
 
 Follow these steps to run DetectNet locally:
-
+```bash
 # 1. Clone the repository
 git clone https://github.com/nazriellesmono/DetectNet.git
 cd DetectNet
@@ -85,7 +85,7 @@ python app.py
 
 # Access the app at:
 # http://localhost:5000
-
+```
 ---
 ## 👨‍💻 Development Team
 
