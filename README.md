@@ -23,8 +23,6 @@ This project addresses the growing demand for intelligent network monitoring too
 
 ## 🖼️ User Interface Preview
 
-> *(Screenshots placeholders — replace with actual images once available)*
-
 1. **Main Dashboard**
    - ![Main Dashboard](dokumentasi/home1.png)
 2. **Manual Input Page**
