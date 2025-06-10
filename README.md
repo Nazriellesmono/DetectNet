@@ -71,7 +71,6 @@ DetectNet uses the **Random Forest** algorithm — a robust, ensemble-based clas
 
 Follow these steps to run DetectNet locally:
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/DetectNet.git
 cd DetectNet
