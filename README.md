@@ -24,11 +24,11 @@ This project addresses the growing demand for intelligent network monitoring too
 ## 🖼️ User Interface Preview
 
 1. **Main Dashboard**
-   - ![Main Dashboard](dokumentasi/home1.png)
+   - ![Main Dashboard](docs/home1.png)
 2. **Manual Input Page**
-   - ![Input Form](dokumentasi/Detection.png)
+   - ![Input Form](docs/Detection.png)
 3. **Dataset Management**
-   - ![Dataset Table](dokumentasi/dataset.png)
+   - ![Dataset Table](docs/dataset.png)
 
 ---
 
@@ -61,7 +61,7 @@ DetectNet uses the **Random Forest** algorithm — a robust, ensemble-based clas
   - 📈 Validation using metrics like accuracy, precision, recall, and F1-score
 
 - **Model Performance:**
-  - ![Confusion Matrix](dokumentasi/confusion_matrix.png)
+  - ![Confusion Matrix](docs/confusion_matrix.png)
 
 ---
 
