@@ -91,10 +91,10 @@ python app.py
 
 | Name                      | Student ID   | Role                                      |
 |---------------------------|--------------|-------------------------------------------|
-| **Achmed Nazriel Lesmono**| 2423600003   | **Machine Learning Engineer & Presenter** |
-| Dinjino Evano Febriant    | 2423600005   | Backend Developer                         |
+| [**Achmed Nazriel Lesmono**](https://github.com/Nazriellesmono)| 2423600003   | **Machine Learning Engineer & Presenter** |
+| [Dinjino Evano Febriant](https://github.com/repinger)    | 2423600005   | Backend Developer                         |
 | Moh. Ar Ridho Al Ihsan    | 2423600009   | UI/UX & Frontend Design                   |
-| Muhammad Nizamudin M      | 2423600024   | Frontend Developer                        |
+| [Muhammad Nizamudin M](https://github.com/ImNizamudin)      | 2423600024   | Frontend Developer                        |
 
 ---
 
