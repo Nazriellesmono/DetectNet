@@ -26,11 +26,11 @@ This project addresses the growing demand for intelligent network monitoring too
 > *(Screenshots placeholders — replace with actual images once available)*
 
 1. **Main Dashboard**
-   - `![Main Dashboard](screenshots/main_dashboard.png)`
+   - ![Main Dashboard](dokumentasi/home1.png)
 2. **Manual Input Page**
-   - `![Input Form](screenshots/input_data.png)`
+   - ![Input Form](dokumentasi/Detection.png)
 3. **Dataset Management**
-   - `![Dataset Table](screenshots/dataset_view.png)`
+   - ![Dataset Table](dokumentasi/dataset.png)
 
 ---
 
@@ -63,7 +63,7 @@ DetectNet uses the **Random Forest** algorithm — a robust, ensemble-based clas
   - 📈 Validation using metrics like accuracy, precision, recall, and F1-score
 
 - **Model Performance:**
-  > *(Add actual results if available. Example below is for placeholder purposes.)*
+  - ![Confusion Matrix](dokumentasi/confusion_matrix.png)
 
 ---
 
@@ -72,7 +72,7 @@ DetectNet uses the **Random Forest** algorithm — a robust, ensemble-based clas
 Follow these steps to run DetectNet locally:
 
 # 1. Clone the repository
-git clone https://github.com/yourusername/DetectNet.git
+git clone https://github.com/nazriellesmono/DetectNet.git
 cd DetectNet
 
 # 2. Create a virtual environment
