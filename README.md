@@ -87,26 +87,33 @@ python app.py
 
 # Access the app at:
 # http://localhost:5000
-👨‍💻 Development Team
-Name	Student ID	Role
-Achmed Nazriel Lesmono	2423600003	Frontend Developer
-Dinjino Evano Febriant	2423600005	Backend Developer
-Moh. Ar Ridho Al Ihsan	2423600009	UI/UX & Frontend Design
-Muhammad Nizamudin M.	2423600024	Machine Learning Engineer & Technical Presenter
 
-🔮 Future Work
+---
+## 👨‍💻 Development Team
+
+| Name                      | Student ID   | Role                                      |
+|---------------------------|--------------|-------------------------------------------|
+| **Achmed Nazriel Lesmono**| 2423600003   | **Machine Learning Engineer & Presenter** |
+| Dinjino Evano Febriant    | 2423600005   | Backend Developer                         |
+| Moh. Ar Ridho Al Ihsan    | 2423600009   | UI/UX & Frontend Design                   |
+| Muhammad Nizamudin M      | 2423600024   | Frontend Developer                        |
+
+---
+
+## 🔮 Future Work
+
 DetectNet sets the foundation for intelligent network monitoring. Future enhancements may include:
 
-🧠 Explainable AI (XAI): Visualizing why certain anomalies are detected to aid decision-making.
+- 🧠 **Explainable AI (XAI):** Visualizing why certain anomalies are detected to aid decision-making.
+- 📈 **Online Learning:** Enabling the model to adapt and improve continuously with new network data.
+- 🧰 **User Authentication:** Adding admin/user login and role-based access.
+- 🌍 **Multilingual Support:** Supporting English and Bahasa Indonesia for wider reach.
+- 📡 **Real-Time Packet Sniffing:** Integrating with live network data streams using tools like Scapy or Wireshark.
 
-📈 Online Learning: Enabling the model to adapt and improve continuously with new network data.
+---
 
-🧰 User Authentication: Adding admin/user login and role-based access.
+## 📜 License
 
-🌍 Multilingual Support: Supporting English and Bahasa Indonesia for wider reach.
-
-📡 Real-Time Packet Sniffing: Integrating with live network data streams using tools like Scapy or Wireshark.
-
-📜 License
 This project is for educational and research purposes only. Licensing details can be discussed upon request.
+
 
