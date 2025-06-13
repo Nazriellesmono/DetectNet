@@ -1,7 +1,5 @@
 # 🚨 DetectNet - Intelligent Network Anomaly Detection System ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-🔗 **Live Demo:** [https://103.151.140.139.sslip.io/](https://103.151.140.139.sslip.io/)
-
 ---
 
 ## 🧠 Project Overview
